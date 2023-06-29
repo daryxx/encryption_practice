@@ -1,0 +1,4 @@
+﻿  project1.cpp
+E:\Учебная практика\project1\project1\project1.cpp(133,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Учебная практика\project1\project1\project1.cpp(196,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  project1.vcxproj -> E:\Учебная практика\project1\x64\Debug\project1.exe
